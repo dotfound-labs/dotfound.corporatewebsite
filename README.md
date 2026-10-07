@@ -19,4 +19,4 @@ View your app in AI Studio: https://ai.studio/apps/drive/1cXQErGdTaqhQj8KxNZVGdq
 3. Run the app:
    `npm run dev`
 
-aaa
+Vercel deployment integration test
